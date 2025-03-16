@@ -26,35 +26,35 @@
   "topbarLinks": [
     {
       "name": "Support Server",
-      "url": "https://discord.gg/bleed"
+      "url": "https://discord.gg/"
     }
   ],
   "topbarCtaButton": {
     "name": "Home",
-    "url": "https://bleed.bot"
+    "url": "https://e4ae-70-231-83-93.ngrok-free.app"
   },
   "redirects": [
     {
       "source": "/commands",
-      "destination": "https://bleed.bot/commands"
+      "destination": "https://e4ae-70-231-83-93.ngrok-free.app/commands"
     },
     {
       "source": "/status",
-      "destination": "https://bleed.bot/status"
+      "destination": "https://e4ae-70-231-83-93.ngrok-free.app/status"
     },
     {
       "source": "/invite",
-      "destination": "https://bleed.bot/invite"
+      "destination": "https://e4ae-70-231-83-93.ngrok-free.app/invite"
     },
     {
       "source": "/discord",
-      "destination": "https://discord.gg/bleed"
+      "destination": "https://discord.gg/"
     }
   ],
   "navigation": [
     {
       "group": "Overview",
-      "pages": ["overview/introduction", "overview/donator-perks"]
+      "pages": ["overview/introduction"]
     },
     {
       "group": "Security Setup",
@@ -126,22 +126,15 @@
             "resources/scripting/pagination"
           ]
         },
-        "resources/permissions",
-        "resources/voices",
-        "resources/languages"
+        "resources/permissions"
       ]
     },
     {
       "group": "Common Issues",
       "pages": [
-        "common-issues/ios-dash",
         "common-issues/permissions",
         "common-issues/server-removal"
       ]
     }
-  ],
-  "footerSocials": {
-    "discord": "https://discord.gg/bleed",
-    "github": "https://github.com/ju/docs"
-  }
+  ]
 }
