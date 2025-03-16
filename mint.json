@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "bleed",
+  "name": "stain",
   "logo": {
     "dark": "https://bleed.bot/bleed.png",
     "light": "https://bleed.bot/bleed.png"
@@ -21,7 +21,7 @@
   },
   "metadata": {
     "theme-color": "#658a95",
-    "og:site_name": "bleed.bot"
+    "og:site_name": "stain.cloud"
   },
   "topbarLinks": [
     {
@@ -31,7 +31,7 @@
   ],
   "topbarCtaButton": {
     "name": "Home",
-    "url": "https://e4ae-70-231-83-93.ngrok-free.app"
+    "url": "https://www.google.com"
   },
   "redirects": [
     {
